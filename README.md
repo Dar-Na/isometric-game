@@ -12,3 +12,4 @@ Docs:
 7. [Specyfikacja wymagan systemowych (SWS)](https://pgedupl-my.sharepoint.com/:w:/g/personal/s187726_o365_student_pg_edu_pl/EZZ4vBduuChAgy2f64KFTucBS14gHu-x67fyHYpeQUFXxQ?e=1r918c)  
   
 [JIRA BACKLOG](https://dar-na.atlassian.net/jira/software/projects/RPI/boards/1/backlog)  
+[pomocnicze materiały](https://drive.google.com/drive/folders/1TT_YT05TPYjsGKwgw-NgB_V7r_OxW4jS?usp=sharing)   
