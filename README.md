@@ -9,6 +9,6 @@ Docs:
 4. [Kanban: Tablica Kanban](https://docs.google.com/document/d/1pL5UHA3S3DkMU9ZNo7AdrFJDhjQ4-bCm7cq_Ejkj5s4/edit?usp=sharing)  
 5. [Scrum: Retrospektywa sprintu](https://docs.google.com/document/d/1bhFfLZftN7rlWXKgLv4MIikESEhIcQpOPBFVkhC30vo/edit?usp=sharing)  
 6. [Dobor i adaptacja metodyki](https://docs.google.com/document/d/1eGlEmawZmDkLxaGVUYadf-kKDVcnuwqwjxfzHKlam_4/edit?usp=sharing)  
-7. [SWS](https://docs.google.com/document/d/1Hdry1yPyFVvJiYvTtFsGPuUbfP0rknXJ4l7WLVPQ4Uw/edit?usp=sharing)  
+7. [Specyfikacja wymagan systemowych (SWS)](https://pgedupl-my.sharepoint.com/:w:/g/personal/s187726_o365_student_pg_edu_pl/EZZ4vBduuChAgy2f64KFTucBS14gHu-x67fyHYpeQUFXxQ?e=1r918c)  
   
 [JIRA BACKLOG](https://dar-na.atlassian.net/jira/software/projects/RPI/boards/1/backlog)  
